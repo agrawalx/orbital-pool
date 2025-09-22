@@ -166,10 +166,6 @@ All contract addresses are pre-configured for Arbitrum Sepolia testnet.
 
 - [Video Demo](https://www.youtube.com/watch?v=b1orvJa6OE8)
 
-## Deployment Link
-
-- [Link](https://orbital-agrawalx-yash-agrawal-s-projects.vercel.app/)
-
 ## Documentation
 
 ### Whitepaper Reference
